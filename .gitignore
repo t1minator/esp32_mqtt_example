@@ -10,3 +10,8 @@ compile_commands.json
 CTestTestfile.cmake
 _deps
 /build/
+.cproject
+.project
+sdkconfig.old
+main/Kconfig.projbuild
+protocol_examples_common/Kconfig.projbuild
